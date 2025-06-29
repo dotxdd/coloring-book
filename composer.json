@@ -3,7 +3,7 @@
     "description": "PHP library for generating coloring book pages from images",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "authors": [
         {
             "name": "Gabriel Moskwa",
