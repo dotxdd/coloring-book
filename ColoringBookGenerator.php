@@ -1,6 +1,6 @@
 <?php
 
-namespace ColoringBook;
+namespace Dotxdd\ColoringBook;
 
 use Intervention\Image\ImageManager;
 use Intervention\Image\Drivers\Gd\Driver;
