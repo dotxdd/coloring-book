@@ -1,6 +1,6 @@
 <?php
 
-namespace ColoringBook\Interfaces;
+namespace Dotxdd\ColoringBook\Interfaces;
 
 interface ColoringBookGeneratorInterface
 {
