@@ -1,6 +1,6 @@
 <?php
 
-namespace ColoringBook;
+namespace Dotxdd\ColoringBook;
 
 class Segmenter
 {
